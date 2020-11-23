@@ -16,3 +16,10 @@ would be an interesting feature to add later, as it would let you know how
 close to a good "sold" price that you would get. It would be kind of like 
 having a Zillow "zestimate" price for any given Model 3, given its model
 year, mileage, and other computable features.
+
+## colophon
+
+It's worth noting that I wrote this entirely using the VS Code interactive
+window experience. I had no idea how to use this API and there was a *lot*
+of trial and error involved, which is a perfect scenario for using the
+interactive window feature.
