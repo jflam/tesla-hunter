@@ -116,12 +116,13 @@ print(f"there are {results['total_matches_found']} total records in result set")
 # Let's define types for everything
 
 import enum 
-from typing import List
+from datetime import datetime
+from typing import List, Tuple
 
 class ExteriorColor(enum.Enum):
     RED = 'Red Multi-Coat'
     WHITE = 'Pearl White Multi-Coat'
-    SILVER = 'SILVER'
+    SILVER = 'Silver Metallic'
     BLUE = 'Deep Blue Metallic'
     BLACK = 'Solid Black'
     GRAY = 'Midnight Silver Metallic'
@@ -133,15 +134,17 @@ class InteriorColor(enum.Enum):
     UNKNOWN = "UNKNOWN"
 
 class Drivetrain(enum.Enum):
-    LRAWD = "Long Range All-Wheel Drive"
-    LRRWD = "Long Range Rear-Wheel Drive"
-    MRRWD = "Medium Range Rear-Wheel Drive"
-    SRPRWD = "Standard Range Plus Rear-Wheel Drive"
+    LRAWD = "Long Range AWD"
+    LRAWDP = "Long Range AWD Performance"
+    LRRWD = "Long Range RWD"
+    MRRWD = "Medium Range RWD"
+    SRPRWD = "Standard Range Plus RWD"
     UNKNOWN = "UNKNOWN"
 
 class Wheels(enum.Enum):
     EIGHTEEN = '18" Aero Wheels'
     NINETEEN = '19" Sport Wheels'
+    TWENTY = '20" Fragile Wheels'
     UNKNOWN = "UNKNOWN"
 
 class Car:
@@ -187,6 +190,18 @@ class Car:
     def get_tesla_details_page_uri(self):
         return f"https://www.tesla.com/used/{self.VIN}"
 
+class Price:
+    Prices : List[Tuple[int, datetime]]
+    
+    def get_current(self) -> Tuple[int, datetime]:
+        if self.Prices.count == 0:
+            return None 
+        else: 
+            return self.Prices[self.Prices.count -1]
+    
+    def add(self, price : int, dt, datetime) -> None:
+        self.Prices.append((price, dt))
+
 #%%
 
 # Helper functions
@@ -223,6 +238,10 @@ def get_drivetrain(car) -> Drivetrain:
     drive=car["TRIM"][0]
     if drive == "LRAWD":
         return Drivetrain.LRAWD
+    elif drive == "LRAWDP":
+        return Drivetrain.LRAWDP
+    elif drive == "MRRWD":
+        return Drivetrain.MRRWD
     elif drive == "LRRWD":
         return Drivetrain.LRRWD
     elif drive == "SRPRWD":
@@ -237,6 +256,8 @@ def get_wheels(car) -> Wheels:
         return Wheels.EIGHTEEN
     elif size == "NINETEEN":
         return Wheels.NINETEEN
+    elif size == "TWENTY":
+        return Wheels.TWENTY
     else:
         print(f"unknown wheelsize: {size}")
         return Wheels.UNKNOWN
@@ -294,6 +315,7 @@ def generate_links(cars):
         html += '<tr>'
         html += f'<td>${format(car.Price, ",d")}</td>'
         html += f'<td>{car.ModelYear}</td>'
+        html += f'<td style="text-align:left">{car.Drivetrain.value}</td>'
         html += f'<td style="text-align:left">{car.ExteriorColor.value}</td>'
         html += f'<td style="text-align:left">{car.Wheels.value}</td>'
         html += f'<td>{format(car.Mileage, ",d")}</td>'
@@ -304,5 +326,90 @@ def generate_links(cars):
     html += "</table>"
     display(HTML(html))
     
+#%%
 
+import pandas as pd 
+
+# Function that takes the vector of car objects and converts to a pandas dataframe
+
+def to_dataframe(cars) -> pd.DataFrame:
+    df = pd.DataFrame(columns=['VIN', 'Price', 'Year', 'Exterior Color', 'Wheels', 'Mileage', 'Location'])
+    i = 0
+    for car in cars:
+        df.loc[i] = [car.VIN, car.Price, car.ModelYear, car.ExteriorColor.value, car.Wheels.value, car.Mileage, car.Location]
+        i += 1
+    return df.set_index(["VIN"])
+
+#%%
+
+df=to_dataframe(objs)
+# %%
+
+query = {
+    "query": {
+        "model": "m3",
+        "condition": "used",
+        "options": {
+            # MRRWD|LRRWD|SRPRWD|LRAWD
+            # "TRIM": ["LRAWD"],
+            # WHITE|RED|BLACK|SILVER
+            # "PAINT": ["WHITE","GRAY"],
+            # EIGHTEEN|NINETEEN
+            # "WHEELS": ["NINETEEN"],
+            # "AUTOPILOT": ["AUTOPILOT_FULL_SELF_DRIVING"],
+            # PREMIUM_BLACK|PREMIUM_WHITE
+            # "INTERIOR": ["PREMIUM_WHITE"]
+        },
+        "arrangeby": "Price",
+        "order": "asc",
+        "market": "US",
+        "language": "en",
+        "region": "north america"
+    },
+}
+
+# Function to retrieve a page of results from tesla inventory API
+
+def query_tesla(query):
+    cars=[]
+    offset=0
+
+    def query_page(query, offset):
+        query["outsideOffset"]=offset
+        query_str=json.dumps(query)
+        url_str=urllib.parse.quote(query_str)
+        r=requests.get(INVENTORY_API+url_str)
+        return r.json()
+
+    while True:
+        r=query_page(query, offset)
+
+        results=r["results"]
+        for result in results:
+            vin=result["VIN"]
+            price=result["Price"]
+            is_demo=result["IsDemoVehicle"]
+            location=result.get("MetroName", None)
+            mileage=result["Odometer"]
+            year=result["Year"]
+            car = Car(vin, 
+                      exterior_color(result), 
+                      interior_color(result), 
+                      get_drivetrain(result), 
+                      get_wheels(result), 
+                      mileage, 
+                      get_pictures(result),
+                      year,
+                      location,
+                      price)
+            cars.append(car)
+
+        if offset+len(r["results"]) >= int(r["total_matches_found"]):
+            break
+
+        offset+=len(r["results"])
+    
+    return cars
+
+cars=query_tesla(query)
 # %%
