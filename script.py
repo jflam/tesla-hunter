@@ -413,3 +413,8 @@ def query_tesla(query):
 
 cars=query_tesla(query)
 # %%
+
+# Fun with enums
+
+import teslatypes as tt 
+
