@@ -7,6 +7,13 @@ from typing import List, Tuple
 
 INVENTORY_API = "https://www.tesla.com/inventory/api/v1/inventory-results?query="
 
+class Model(enum.Enum):
+    m3 = 'Model 3'
+    ms = 'Model S'
+    mx = 'Model X'
+    my = 'Model Y'
+    UNKNOWN = 'Unknown Model'
+
 class ExteriorColor(enum.Enum):
     RED = 'Red Multi-Coat'
     WHITE = 'Pearl White Multi-Coat'
@@ -14,25 +21,51 @@ class ExteriorColor(enum.Enum):
     BLUE = 'Deep Blue Metallic'
     BLACK = 'Solid Black'
     GRAY = 'Midnight Silver Metallic'
+    GREY = 'Model X Grey'
+    BROWN = 'Brown Metallic'
     UNKNOWN = 'Unknown Exterior Color'
 
 class InteriorColor(enum.Enum):
     PREMIUM_BLACK = 'Premium Black'
     PREMIUM_WHITE = 'Premium Black and White'
+    TAN = 'Tan'
+    CREAM = 'Cream Premium'
+    WHITE = 'White'
+    BLACK = 'Black'
+    GREY = 'Grey'
+    BLACK_TEXTILE = 'Black Cloth'
     UNKNOWN = 'Unknown Interior Color'
 
 class Drivetrain(enum.Enum):
+    # M3
     LRAWD = 'Long Range AWD'
     LRAWDP = 'Long Range AWD Performance'
     LRRWD = 'Long Range RWD'
     MRRWD = 'Medium Range RWD'
     SRPRWD = 'Standard Range Plus RWD'
+    # MS/MX
+    _70 = '70Kwh'
+    _75 = '75Kwh'
+    _85 = '85Kwh'
+    _75D = 'Dual Motor 75Kwh'
+    _85D = 'Dual Motor 85Kwh'
+    _90D = 'Dual Motor 90Kwh'
+    P85 = '85Kwh Performance'
+    P85D = 'Dual Motor 85Kwh Performance'
+    P85DL = 'Dual Motor 85Kwh Ludicrous'
+    P90D = 'Dual Motor 90Kwh Performance'
+    P90DL = 'Dual Motor 90Kwh Ludicrous'
+    P100D = 'Dual Motor 100Kwh Performance'
+    P100DL = 'Dual Motor 100Kwh Ludicrous'
+    _100DE = 'Dual Motor 100Kwh ???'
     UNKNOWN = 'Unknown Drivetrain'
 
 class Wheels(enum.Enum):
     EIGHTEEN = '18" Aero Wheels'
     NINETEEN = '19" Sport Wheels'
     TWENTY = '20" Fragile Wheels'
+    TWENTY_ONE = '21" Wheels'
+    TWENTY_TWO = '22" Wheels'
     UNKNOWN = "Unknown Wheel Type"
 
 # Return descriptions for UX
@@ -53,6 +86,10 @@ def get_value(t : enum.Enum, description : str):
 # Lookup an Enum value based on the code in results
 
 def lookup_code(t : enum.Enum, code : str):
+    # If code starts with a number, prefix code with an _
+    if code[0].isdigit():
+        code = '_' + code
+
     for e in t:
         if e.name == code:
             return e
@@ -115,13 +152,12 @@ class Price:
     def add(self, price : int, dt, datetime) -> None:
         self.Prices.append((price, dt))
 
-def create_query(drivetrains, exterior_colors, interior_colors, wheels):
+def create_query(model, drivetrains, exterior_colors, interior_colors, wheels):
     def to_str_list(l : List) -> List[str]:
         return [e.name for e in l]
 
     query = {
         "query": {
-            "model": "m3",
             "condition": "used",
             "arrangeby": "Price",
             "order": "asc",
@@ -130,6 +166,8 @@ def create_query(drivetrains, exterior_colors, interior_colors, wheels):
             "region": "north america"
         },
     }
+
+    query["query"]["model"] = model.name
 
     # programmatically build options based on presence of options (none means no filter)
 
@@ -149,6 +187,7 @@ def create_query(drivetrains, exterior_colors, interior_colors, wheels):
         options["WHEELS"] = whls
     query["query"]["options"] = options
 
+    print(query)
     return query
 
 def get_pictures(car) -> List[str]:
@@ -224,7 +263,7 @@ def to_dataframe(cars) -> pd.DataFrame:
                      car.Mileage, 
                      car.Location]
         i += 1
-    return df.set_index(["VIN"])
+    return df # df.set_index(["VIN"])
 
 def to_enum_list(t, l : List[str]):
     return [get_value(t, i) for i in l]
