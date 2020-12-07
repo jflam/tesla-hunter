@@ -1,7 +1,7 @@
 # Enable debugging in streamlit
 
 from teslahunter import Drivetrain, ExteriorColor, InteriorColor, Wheels, Model
-from teslahunter import create_query, query_tesla, to_dataframe, get_descriptions, to_enum_list, get_value
+from teslahunter import query, to_dataframe, get_descriptions, to_enum_list, get_value
 import streamlit as st
 
 '''
@@ -32,11 +32,18 @@ wheels = st.sidebar.multiselect(
 
 if st.sidebar.button("Search!"):
     data_load_state = st.text('Running query ...')
-    query = create_query(get_value(Model, model),
-                         to_enum_list(Drivetrain, drivetrains), 
-                         to_enum_list(ExteriorColor, exterior_colors),
-                         to_enum_list(InteriorColor, interior_colors), 
-                         to_enum_list(Wheels, wheels))
-    cars = query_tesla(query)
-    data_load_state.text('Done!')
-    st.write(to_dataframe(cars))
+    cars = query(get_value(Model, model),
+                 to_enum_list(Drivetrain, drivetrains), 
+                 to_enum_list(ExteriorColor, exterior_colors),
+                 to_enum_list(InteriorColor, interior_colors), 
+                 to_enum_list(Wheels, wheels))
+    for car in cars:
+        with st.beta_container():
+            st.markdown(f"## {car.ModelYear} {car.Drivetrain.value} ${car.Price:,}")
+            st.markdown(f"{car.Mileage:,} miles")
+            st.markdown(f"{car.ExteriorColor.value} with {car.InteriorColor.value} interior. Located in {car.Location}")
+            st.markdown(f"<a target='_blank' href='https://www.tesla.com/used/{car.VIN}'>Order</a>  <a target='_blank' href='https://www.teslacpo.io/vin/{car.VIN}'>Price history</a>", unsafe_allow_html=True)
+
+    data_load_state.text(f"{len(cars)} found.")
+
+    # st.write(to_dataframe(cars))
