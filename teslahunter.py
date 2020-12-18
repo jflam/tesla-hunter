@@ -51,6 +51,7 @@ class Drivetrain(enum.Enum):
     MRRWD = "Medium Range RWD"
     SRPRWD = "Standard Range Plus RWD"
     # MS/MX
+    _60 = "60Kwh"
     _70 = "70Kwh"
     _75 = "75Kwh"
     _85 = "85Kwh"
@@ -336,7 +337,6 @@ def get_daily_data() -> pd.DataFrame:
         df = df.reset_index(drop=True)
         df = df.drop_duplicates()
         df = df.set_index("VIN")
-        df.to_pickle(f"{date.today()}.pkl")
         return df
     else:
         return pd.read_pickle(filename)
