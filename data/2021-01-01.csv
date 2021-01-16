@@ -1,0 +1,517 @@
+VIN,Price,Model,Year,Drivetrain,Exterior Color,Interior Color,Wheels,Mileage,Location,History
+5YJSA1S27FF090333,34500,Model S,2015,Dual Motor 70Kwh,Deep Blue Metallic,Grey,"19"" Sport Wheels",46823,"Littleton, CO",CLEAN
+5YJSA1E15GF128288,34500,Model S,2016,70Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",51338,"Lathrop, CA",CLEAN
+5YJSA1S14FFP78927,34600,Model S,2015,60Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",43862,"Scottsdale, AZ",CLEAN
+5YJSA1S14FF080320,35200,Model S,2015,60Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",37800,"Cherry Hill, NJ",CLEAN
+5YJSA1E25FF106475,36900,Model S,2015,Dual Motor 70Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",31190,"Lathrop, CA",CLEAN
+5YJSA1E2XFF116886,36900,Model S,2015,Dual Motor 90Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",76689,"Lathrop, CA",CLEAN
+5YJSA1S25FF088015,37300,Model S,2015,Dual Motor 70Kwh,Pearl White Multi-Coat,Tan,"19"" Sport Wheels",32119,"West Palm Beach, FL",CLEAN
+5YJSA1E17GF160630,37700,Model S,2016,75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",40702,"Lathrop, CA",CLEAN
+5YJSA4S28FF096742,38100,Model S,2015,Dual Motor 70Kwh,Brown Metallic,Tan,"19"" Sport Wheels",35857,"Littleton, CO",CLEAN
+5YJSA1E18GF150138,38500,Model S,2016,75Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",33415,"Bellevue, WA",CLEAN
+5YJSA1E13GF150998,38800,Model S,2016,75Kwh,Model X Grey,Grey,"19"" Sport Wheels",30111,"Lathrop, CA",CLEAN
+5YJSA1H15FF081595,38800,Model S,2015,85Kwh,Model X Grey,Grey,"19"" Sport Wheels",33536,"Lathrop, CA",CLEAN
+5YJSA1E15GF143292,39300,Model S,2016,75Kwh,Red Multi-Coat,Black Cloth,"19"" Sport Wheels",28239,"Tampa, FL",PREVIOUS ACCIDENT(S)
+5YJSA1E25FF109893,39700,Model S,2015,Dual Motor 70Kwh,Pearl White Multi-Coat,Tan,"19"" Sport Wheels",33658,"Hawthorne, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E2XGF151364,39700,Model S,2016,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",48441,"Maplewood, MN",CLEAN
+5YJSA1E23GF144868,40000,Model S,2016,Dual Motor 75Kwh,Pearl White Multi-Coat,Grey,"19"" Sport Wheels",42157,"Las Vegas, NV",CLEAN
+5YJSA1E18HF208654,40300,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",39479,"Lathrop, CA",CLEAN
+5YJSA1E27GF130259,40800,Model S,2016,Dual Motor 90Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",60674,"Jacksonville, FL",CLEAN
+5YJSA1E18GF172379,41200,Model S,2016,75Kwh,Solid Black,Black,"19"" Sport Wheels",21730,"Hawthorne, CA",CLEAN
+5YJSA1E27HF199955,41400,Model S,2017,Dual Motor 75Kwh,Solid Black,Tan,"19"" Sport Wheels",50896,,PREVIOUS ACCIDENT(S)
+5YJSA1E27GF168042,41700,Model S,2016,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",25444,"Raleigh, NC",PREVIOUS ACCIDENT(S)
+5YJSA1E16HF225355,41800,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",42807,"Lathrop, CA",CLEAN
+5YJSA1E18GF170826,41800,Model S,2016,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",28009,"Carlsbad, CA",CLEAN
+5YJSA1E28FF104509,41900,Model S,2015,Dual Motor 85Kwh,Solid Black,Black,"19"" Sport Wheels",42176,"Rockville, MD",CLEAN
+5YJSA1E26GF156884,41900,Model S,2016,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",38932,"Mt. Kisco, NY",CLEAN
+5YJSA1E12HF209489,41900,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",26001,"Westmont, IL",CLEAN
+5YJSA1E19HF186955,42000,Model S,2017,75Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",40724,"San Jose, CA",CLEAN
+5YJSA1E15HF220227,42000,Model S,2017,75Kwh,Solid Black,Black,"19"" Sport Wheels",36697,"Bellevue, WA",CLEAN
+5YJSA1E18HF215510,42200,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",32254,"Lathrop, CA",CLEAN
+5YJSA1H28FF085830,42200,Model S,2015,Dual Motor 85Kwh,Model X Grey,Black,"19"" Sport Wheels",17267,"Lathrop, CA",CLEAN
+5YJSA1E2XHF219440,42400,Model S,2017,Dual Motor 75Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",37053,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E15HF218980,42400,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",39387,"Santa Ana, CA",CLEAN
+5YJSA1E2XGF173204,42400,Model S,2016,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",69547,,CLEAN
+5YJSA1E15HF184443,42500,Model S,2017,75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",29279,"Littleton, CO",CLEAN
+5YJSA1H2XFF082430,42500,Model S,2015,Dual Motor 85Kwh,Model X Grey,Black,"19"" Sport Wheels",21921,"Highland Park, IL",CLEAN
+5YJSA1E16HF208796,42500,Model S,2017,75Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",33324,"Lathrop, CA",CLEAN
+5YJSA1E26GF152396,42600,Model S,2016,Dual Motor 75Kwh,Model X Grey,Grey,"19"" Sport Wheels",20361,"Owings Mills, MD",PREVIOUS ACCIDENT(S)
+5YJSA1E29GF151940,42600,Model S,2016,Dual Motor 75Kwh,Deep Blue Metallic,Grey,"19"" Sport Wheels",31739,"Nashville, TN",CLEAN
+5YJSA1E18HF191337,43200,Model S,2017,75Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",31043,"Lathrop, CA",CLEAN
+5YJSA1E13HF194016,43300,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",29720,"Hawthorne, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E12HF189745,43400,Model S,2017,75Kwh,Model X Grey,Black,"19"" Sport Wheels",27101,"Maplewood, MN",CLEAN
+5YJSA1E22HF190421,43500,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",40421,"Lathrop, CA",CLEAN
+5YJSA1E11HF189770,43500,Model S,2017,75Kwh,Solid Black,Black,"19"" Sport Wheels",28195,"Lathrop, CA",CLEAN
+5YJSA1E25HF185097,43700,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",42917,"Rocklin, CA",CLEAN
+5YJSA1E1XGF174683,43800,Model S,2016,75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",26040,"Lathrop, CA",CLEAN
+5YJSA1E13GF158194,43800,Model S,2016,75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",28844,,CLEAN
+5YJSA1E13HF221425,43800,Model S,2017,75Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",32429,"Lathrop, CA",CLEAN
+5YJSA1E23HF193344,43900,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",42928,"Portland, OR",CLEAN
+5YJSA1E22HF201479,43900,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",30209,"Lathrop, CA",CLEAN
+5YJSA1E27HF187059,43900,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",27173,"Fremont, CA",CLEAN
+5YJSA1E23GF166918,44000,Model S,2016,Dual Motor 75Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",39996,"San Jose, CA",CLEAN
+5YJSA1E16HF216039,44000,Model S,2017,75Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",20534,"Lathrop, CA",CLEAN
+5YJSA1E29GF156152,44100,Model S,2016,Dual Motor 75Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",24351,"Matthews, NC",CLEAN
+5YJSA1E18HF187319,44100,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",18051,"Lathrop, CA",CLEAN
+5YJSA1E26HF204319,44100,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",45508,"Lathrop, CA",CLEAN
+5YJSA1E10HF206185,44100,Model S,2017,75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",34859,"Littleton, CO",CLEAN
+5YJSA1E29HF217551,44100,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",40386,"Lathrop, CA",CLEAN
+5YJSA1E12HF231315,44100,Model S,2017,75Kwh,Silver Metallic,Black Cloth,"19"" Sport Wheels",39843,"Lathrop, CA",CLEAN
+5YJSA1E17HF231178,44200,Model S,2017,75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",31723,"Lathrop, CA",CLEAN
+5YJSA1H22FFP69790,44200,Model S,2015,Dual Motor 85Kwh Performance,Deep Blue Metallic,Tan,"19"" Sport Wheels",39495,"Renton, WA",CLEAN
+5YJSA1E1XHF187001,44300,Model S,2017,75Kwh,Red Multi-Coat,Black Cloth,"19"" Sport Wheels",50071,"Lathrop, CA",CLEAN
+5YJSA1E23GF157989,44300,Model S,2016,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",34315,,CLEAN
+5YJSA1E12HF203093,44400,Model S,2017,75Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",7953,"Lathrop, CA",CLEAN
+5YJSA1E25GF175491,44500,Model S,2016,Dual Motor 75Kwh,Silver Metallic,Grey,"19"" Sport Wheels",34144,"Littleton, CO",CLEAN
+5YJSA1E20HF211329,44500,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",39543,"Lathrop, CA",CLEAN
+5YJSA1E17HF215899,44500,Model S,2017,75Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",23939,"Lathrop, CA",CLEAN
+5YJSA1E13HF190919,44500,Model S,2017,75Kwh,Model X Grey,Black,"19"" Sport Wheels",26484,"Fremont, CA",CLEAN
+5YJSA1E13HF217634,44500,Model S,2017,75Kwh,Silver Metallic,Black,"19"" Sport Wheels",27462,"Lathrop, CA",CLEAN
+5YJSA1E13HF197109,44500,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",28373,"Raleigh, NC",CLEAN
+5YJSA1E20GF154127,44500,Model S,2016,Dual Motor 90Kwh,Silver Metallic,Grey,"19"" Sport Wheels",48136,"Lathrop, CA",CLEAN
+5YJSA1E2XHF192336,44600,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",30217,"Fremont, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E17HF225896,44600,Model S,2017,75Kwh,Solid Black,Cream Premium,"19"" Sport Wheels",26788,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E11HF214103,44600,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",32547,"Lathrop, CA",CLEAN
+5YJSA1E15HF209714,44700,Model S,2017,75Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",25138,"Rocklin, CA",CLEAN
+5YJSA1E13HF220324,44800,Model S,2017,75Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",33055,"Lathrop, CA",CLEAN
+5YJSA1E25HF223718,45000,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",30431,"Lathrop, CA",CLEAN
+5YJSA1E10HF219129,45000,Model S,2017,75Kwh,Model X Grey,White,"19"" Sport Wheels",29409,"Lathrop, CA",CLEAN
+5YJSA1E15GF170525,45000,Model S,2016,75Kwh,Model X Grey,Grey,"19"" Sport Wheels",14214,"Lathrop, CA",CLEAN
+5YJSA1E11HF218796,45100,Model S,2017,75Kwh,Solid Black,Black,"19"" Sport Wheels",19402,"Rocklin, CA",CLEAN
+5YJSA1E12HF184528,45100,Model S,2017,75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",23701,"Littleton, CO",CLEAN
+5YJSA1E12HF226096,45200,Model S,2017,75Kwh,Silver Metallic,White,"19"" Sport Wheels",28185,"Lathrop, CA",CLEAN
+5YJSA1E26GF168789,45200,Model S,2016,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",24959,"Maplewood, MN",CLEAN
+5YJSA1E21HF186554,45300,Model S,2017,Dual Motor 75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",29818,"Mt. Kisco, NY",CLEAN
+5YJSA1E12HF208665,45400,Model S,2017,75Kwh,Solid Black,Tan,"19"" Sport Wheels",22297,"West Palm Beach, FL",PREVIOUS ACCIDENT(S)
+5YJSA1E17HF208838,45400,Model S,2017,75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",19846,"Littleton, CO",CLEAN
+5YJSA1E1XHF218361,45400,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",27673,"Scottsdale, AZ",PREVIOUS ACCIDENT(S)
+5YJSA1E1XHF189363,45500,Model S,2017,75Kwh,Solid Black,Tan,"19"" Sport Wheels",25144,"Fremont, CA",CLEAN
+5YJSA1E19HF224622,45600,Model S,2017,75Kwh,Silver Metallic,White,"21"" Wheels",33716,"Lathrop, CA",CLEAN
+5YJSA1E17HF231195,45600,Model S,2017,75Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",24137,"Burbank, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E2XFF111560,45700,Model S,2015,Dual Motor 90Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",27355,"Lathrop, CA",CLEAN
+5YJSA1E15HF215223,45800,Model S,2017,75Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",27176,"Lathrop, CA",CLEAN
+5YJSA1E17HF194052,45800,Model S,2017,75Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",20281,"Lathrop, CA",CLEAN
+5YJSA1E29HF201172,45900,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",38816,,CLEAN
+5YJSA1E25HF193216,46100,Model S,2017,Dual Motor 75Kwh,Red Multi-Coat,Tan,"19"" Sport Wheels",32211,,PREVIOUS ACCIDENT(S)
+5YJSA1E28HF199639,46100,Model S,2017,Dual Motor 90Kwh,Pearl White Multi-Coat,White,"19"" Sport Wheels",38593,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E25GF167553,46300,Model S,2016,Dual Motor 90Kwh,Model X Grey,Black,"19"" Sport Wheels",83728,"Roswell, GA",CLEAN
+5YJSA1E29HF186611,46300,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",16556,"Carlsbad, CA",CLEAN
+5YJSA1E15HF214170,46400,Model S,2017,75Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",20376,"Lathrop, CA",CLEAN
+5YJSA1E1XHF228369,46500,Model S,2017,75Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",20997,"Lathrop, CA",CLEAN
+5YJSA1E1XHF216528,46500,Model S,2017,75Kwh,Model X Grey,Black,"19"" Sport Wheels",22408,"Lathrop, CA",CLEAN
+5YJSA1E28HF180203,46600,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",27698,"Lathrop, CA",CLEAN
+5YJSA1E10HF217655,46700,Model S,2017,75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",25782,"Santa Barbara, CA",CLEAN
+5YJSA1E21HF212702,46700,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",28917,"Lathrop, CA",CLEAN
+5YJSA1E1XHF213225,46800,Model S,2017,75Kwh,Solid Black,White,"19"" Sport Wheels",17826,"Lathrop, CA",CLEAN
+5YJSA1E28GF144963,46800,Model S,2016,Dual Motor 90Kwh,Model X Grey,Grey,"19"" Sport Wheels",40586,"Dania Beach, FL",CLEAN
+5YJSA1E25HF191420,46900,Model S,2017,Dual Motor 75Kwh,Solid Black,Tan,"19"" Sport Wheels",34095,"Matthews, NC",CLEAN
+5YJSA1E14HF226729,46900,Model S,2017,75Kwh,Silver Metallic,White,"19"" Sport Wheels",22260,"Lathrop, CA",CLEAN
+5YJSA1E20HF191387,46900,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",25985,"Mt. Kisco, NY",PREVIOUS ACCIDENT(S)
+5YJSA1E20GF169646,46900,Model S,2016,Dual Motor 75Kwh,Brown Metallic,Tan,"19"" Sport Wheels",35807,"Scottsdale, AZ",CLEAN
+5YJSA1E23HF206951,47000,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",26993,"Lathrop, CA",CLEAN
+5YJSA1E25HF184323,47000,Model S,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",25986,"Lathrop, CA",CLEAN
+5YJSA1E25HF210421,47000,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",36077,"Fremont, CA",CLEAN
+5YJSA1E15HF226867,47000,Model S,2017,75Kwh,Solid Black,Black Cloth,"21"" Wheels",27364,"Lathrop, CA",CLEAN
+5YJSA1E2XHF221480,47100,Model S,2017,Dual Motor 75Kwh,Model X Grey,White,"19"" Sport Wheels",32521,"Lisle, IL",PREVIOUS ACCIDENT(S)
+5YJSA1E15HF232863,47200,Model S,2017,75Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",16005,"Lathrop, CA",CLEAN
+5YJSA1E24HF194647,47200,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",26279,"Elk Grove Village, IL",PREVIOUS ACCIDENT(S)
+5YJSA1E23HF192503,47200,Model S,2017,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",28772,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E1XHF217498,47200,Model S,2017,75Kwh,Solid Black,Black Cloth,"21"" Wheels",18870,"Lathrop, CA",CLEAN
+5YJSA1E22GF135692,47200,Model S,2016,Dual Motor 90Kwh,Solid Black,Black,"21"" Wheels",20074,"Matthews, NC",CLEAN
+5YJSA1E16HF213965,47300,Model S,2017,75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",28373,"Tempe, AZ",CLEAN
+5YJSA1E28HF214981,47400,Model S,2017,Dual Motor 90Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",39889,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E14HF218887,47500,Model S,2017,75Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",19846,"Lathrop, CA",CLEAN
+5YJSA1E15HF217554,47500,Model S,2017,75Kwh,Solid Black,Cream Premium,"19"" Sport Wheels",20924,"Littleton, CO",CLEAN
+5YJSA1E2XHF226081,47600,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",25956,"Lathrop, CA",CLEAN
+5YJSA1E24HF220017,47600,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",13650,"Fremont, CA",CLEAN
+5YJSA1E27HF191368,47800,Model S,2017,Dual Motor 75Kwh,Solid Black,Tan,"19"" Sport Wheels",19788,"Hawthorne, CA",CLEAN
+5YJSA1E24GF148542,47800,Model S,2016,Dual Motor 90Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",18823,"Raleigh, NC",CLEAN
+5YJSA1E24HF231924,47800,Model S,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",29117,"Carlsbad, CA",CLEAN
+5YJSA1E27HF191502,47800,Model S,2017,Dual Motor 75Kwh,Model X Grey,Tan,"19"" Sport Wheels",25010,"Portland, OR",PREVIOUS ACCIDENT(S)
+5YJSA1E2XHF177934,47900,Model S,2017,Dual Motor 90Kwh,Solid Black,Black,"19"" Sport Wheels",39483,"Lathrop, CA",CLEAN
+5YJSA1E29HF212690,47900,Model S,2017,Dual Motor 75Kwh,Red Multi-Coat,White,"19"" Sport Wheels",31025,"Rockville, MD",PREVIOUS ACCIDENT(S)
+5YJSA1E24HF198536,47900,Model S,2017,Dual Motor 90Kwh,Silver Metallic,Black,"19"" Sport Wheels",19007,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E12HF232688,48000,Model S,2017,75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",27003,"Glen Allen, VA",CLEAN
+5YJSA1E21HF220427,48000,Model S,2017,Dual Motor 75Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",16069,"Lathrop, CA",CLEAN
+5YJSA1E19HF231344,48000,Model S,2017,75Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",24993,"Hawthorne, CA",CLEAN
+5YJSA1E21HF199661,48100,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",28722,"Lathrop, CA",CLEAN
+5YJSA1E29HF216884,48200,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",25923,"Lathrop, CA",CLEAN
+5YJSA1E29HF214522,48200,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",27211,"Minneapolis, MN",CLEAN
+5YJSA1E22HF180570,48200,Model S,2017,Dual Motor 90Kwh,Solid Black,Tan,"19"" Sport Wheels",43562,"Rocklin, CA",CLEAN
+5YJSA1E17HF221458,48200,Model S,2017,75Kwh,Pearl White Multi-Coat,White,"19"" Sport Wheels",23892,"Lathrop, CA",CLEAN
+5YJSA1E24HF194714,48200,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",14915,"Paramus, NJ",PREVIOUS ACCIDENT(S)
+5YJSA1E16GF152907,48200,Model S,2016,75Kwh,Solid Black,Tan,"19"" Sport Wheels",20905,"Costa Mesa, CA",CLEAN
+5YJSA1E24HF212905,48300,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",22138,"Lisle, IL",CLEAN
+5YJSA1E20HF228583,48400,Model S,2017,Dual Motor 75Kwh,Red Multi-Coat,White,"19"" Sport Wheels",30782,"Rockville, MD",CLEAN
+5YJSA1E11HF210357,48400,Model S,2017,75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",17338,"Lathrop, CA",CLEAN
+5YJSA1E21HF194590,48400,Model S,2017,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",28489,"Roswell, GA",CLEAN
+5YJSA1E2XHF192613,48500,Model S,2017,Dual Motor 90Kwh,Model X Grey,Black,"19"" Sport Wheels",33269,"Rocklin, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E26HF226045,48500,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",23574,"Lathrop, CA",CLEAN
+5YJSA1E10HF214867,48500,Model S,2017,75Kwh,Model X Grey,Black,"19"" Sport Wheels",7537,"Hawthorne, CA",CLEAN
+5YJSA1E13HF216435,48600,Model S,2017,75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",14847,"West Palm Beach, FL",CLEAN
+5YJSA1E28HF187877,48600,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Black,"19"" Sport Wheels",16647,"Lisle, IL",CLEAN
+5YJSA1E28HF220506,48900,Model S,2017,Dual Motor 75Kwh,Solid Black,Cream Premium,"19"" Sport Wheels",30685,"Rocklin, CA",CLEAN
+5YJSA1E24HF197290,48900,Model S,2017,Dual Motor 75Kwh,Solid Black,Tan,"19"" Sport Wheels",22895,"Lynnwood, WA",CLEAN
+5YJSA1E25HF226473,48900,Model S,2017,Dual Motor 75Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",36167,"Owings Mills, MD",CLEAN
+5YJSA1E27HF215037,48900,Model S,2017,Dual Motor 90Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",43690,"Lathrop, CA",CLEAN
+5YJSA1E26HF193340,48900,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",18040,"Littleton, CO",CLEAN
+5YJSA1E25HF192356,49000,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",18492,"Lathrop, CA",CLEAN
+5YJSA1E24HF192235,49100,Model S,2017,Dual Motor 90Kwh,Model X Grey,Black,"19"" Sport Wheels",30083,"Rockville, MD",PREVIOUS ACCIDENT(S)
+5YJSA1E24HF193482,49100,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",26402,"Elk Grove Village, IL",CLEAN
+5YJSA1E22HF198700,49200,Model S,2017,Dual Motor 90Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",35936,"Lathrop, CA",CLEAN
+5YJSA1E26HF200321,49200,Model S,2017,Dual Motor 90Kwh,Silver Metallic,White,"19"" Sport Wheels",37006,"Lathrop, CA",CLEAN
+5YJSA1E20HF232438,49300,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Cream Premium,"19"" Sport Wheels",23139,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJSA1E26HF198649,49300,Model S,2017,Dual Motor 90Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",31889,"Lathrop, CA",CLEAN
+5YJSA1E19HF232753,49400,Model S,2017,75Kwh,Solid Black,Black,"19"" Sport Wheels",19121,"Hawthorne, CA",CLEAN
+5YJSA1E28HF190570,49400,Model S,2017,Dual Motor 90Kwh,Solid Black,Tan,"19"" Sport Wheels",32308,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E48GF128666,49500,Model S,2016,Dual Motor 90Kwh Performance,Pearl White Multi-Coat,Black,"19"" Sport Wheels",41260,"Paramus, NJ",PREVIOUS ACCIDENT(S)
+5YJSA1E26HF215952,49500,Model S,2017,Dual Motor 90Kwh,Pearl White Multi-Coat,White,"19"" Sport Wheels",41611,"Lathrop, CA",CLEAN
+5YJSA1E29GF150142,49600,Model S,2016,Dual Motor 90Kwh,Model X Grey,Grey,"21"" Wheels",28396,"Lathrop, CA",CLEAN
+5YJSA1E28HF194666,49600,Model S,2017,Dual Motor 75Kwh,Model X Grey,Tan,"19"" Sport Wheels",14245,"Chicago, IL",CLEAN
+5YJSA1E23HF199953,49700,Model S,2017,Dual Motor 75Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",28299,"Elk Grove Village, IL",CLEAN
+5YJSA1E28HF190469,49700,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Tan,"19"" Sport Wheels",23084,,CLEAN
+5YJSA1E22HF214202,49900,Model S,2017,Dual Motor 90Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",38177,"Lathrop, CA",CLEAN
+5YJSA1E2XHF215274,49900,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",24845,"Lathrop, CA",CLEAN
+5YJSA1E25HF222651,50400,Model S,2017,Dual Motor 75Kwh,Model X Grey,Black,"19"" Sport Wheels",29688,"Lathrop, CA",CLEAN
+5YJSA1E29HF213158,50400,Model S,2017,Dual Motor 75Kwh,Silver Metallic,Cream Premium,"19"" Sport Wheels",27579,"Owings Mills, MD",CLEAN
+5YJSA1E26HF193175,50700,Model S,2017,Dual Motor 90Kwh,Solid Black,Black,"19"" Sport Wheels",27724,"Lathrop, CA",CLEAN
+5YJSA1E24HF200138,50700,Model S,2017,Dual Motor 90Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",32018,"Minneapolis, MN",CLEAN
+5YJSA1E29HF189699,50800,Model S,2017,Dual Motor 90Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",56279,"Costa Mesa, CA",CLEAN
+5YJSA1E22HF208884,50800,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Black Cloth,"19"" Sport Wheels",42517,"Lathrop, CA",CLEAN
+5YJSA1E24HF225248,51000,Model S,2017,Dual Motor 75Kwh,Model X Grey,White,"19"" Sport Wheels",23562,"Lathrop, CA",CLEAN
+5YJSA1E22HF230450,51600,Model S,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",24820,"Lisle, IL",CLEAN
+5YJSA1E28HF226788,51600,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",18106,"Lynnwood, WA",CLEAN
+5YJSA1E28HF199107,51700,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",47859,"Chicago, IL",PREVIOUS ACCIDENT(S)
+5YJSA1E46GF136491,51900,Model S,2016,Dual Motor 90Kwh Ludicrous,Solid Black,Black,"19"" Sport Wheels",44985,"Westmont, IL",CLEAN
+5YJSA1E27HF192262,52000,Model S,2017,Dual Motor 90Kwh,Solid Black,Black,"19"" Sport Wheels",30852,"Lathrop, CA",CLEAN
+5YJSA1E26HF207334,52100,Model S,2017,Dual Motor 75Kwh,Solid Black,Black,"21"" Wheels",21483,"Riverside, CA",CLEAN
+5YJSA1E28HF183795,52200,Model S,2017,Dual Motor 90Kwh,Silver Metallic,Tan,"19"" Sport Wheels",18506,"Lathrop, CA",CLEAN
+5YJSA1E29HF196474,52200,Model S,2017,Dual Motor 90Kwh,Silver Metallic,White,"19"" Sport Wheels",28865,"Lathrop, CA",CLEAN
+5YJSA1E27HF211392,52200,Model S,2017,Dual Motor 75Kwh,Model X Grey,Tan,"19"" Sport Wheels",20519,"Minneapolis, MN",CLEAN
+5YJSA1E21HF220136,52400,Model S,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",19296,"Columbus, OH",CLEAN
+5YJSA1E23HF194008,52700,Model S,2017,Dual Motor 90Kwh,Silver Metallic,Tan,"19"" Sport Wheels",24280,"Littleton, CO",CLEAN
+5YJSA1E23GF167406,52800,Model S,2016,Dual Motor 90Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",30253,,CLEAN
+5YJSA1E21HF228673,52800,Model S,2017,Dual Motor 75Kwh,Model X Grey,Cream Premium,"21"" Wheels",11469,"Lathrop, CA",CLEAN
+5YJSA1E25HF201556,54000,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Black,"19"" Sport Wheels",35095,"Palm Springs, CA",CLEAN
+5YJSA1E27HF217077,54100,Model S,2017,Dual Motor 100Kwh,Red Multi-Coat,Cream Premium,"19"" Sport Wheels",34988,"Lathrop, CA",CLEAN
+5YJSA1E2XJF243548,54400,Model S,2018,Dual Motor 100Kwh,Solid Black,Black Cloth,"19"" Sport Wheels",46989,"Maplewood, MN",CLEAN
+5YJSA1E27JF277060,54600,Model S,2018,Dual Motor 75Kwh,Deep Blue Metallic,Black Cloth,"19"" Sport Wheels",12204,"Lathrop, CA",CLEAN
+5YJSA1E22HF217424,54600,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Black,"19"" Sport Wheels",34549,"Lathrop, CA",CLEAN
+5YJSA1E23HF220932,54700,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",37731,"Costa Mesa, CA",CLEAN
+5YJSA1E24HF224780,54800,Model S,2017,Dual Motor 100Kwh,Model X Grey,White,"19"" Sport Wheels",45736,"Burbank, CA",CLEAN
+5YJSA1E27HF215006,54900,Model S,2017,Dual Motor 90Kwh,Red Multi-Coat,Black Cloth,"19"" Sport Wheels",30050,"Burbank, CA",CLEAN
+5YJSA1E23HF222308,55000,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",46449,"Costa Mesa, CA",CLEAN
+5YJSA1E29HF199410,55000,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",42183,"Maplewood, MN",CLEAN
+5YJSA1E29JF273494,55000,Model S,2018,Dual Motor 75Kwh,Red Multi-Coat,Cream Premium,"19"" Sport Wheels",22176,"Lathrop, CA",CLEAN
+5YJSA1E29HF216996,55100,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",32454,"Van Nuys, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E23HF210420,55200,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",28873,"Lathrop, CA",CLEAN
+5YJSA1E22JF267455,55200,Model S,2018,Dual Motor 75Kwh,Solid Black,Black,"19"" Sport Wheels",18689,"Scottsdale, AZ",CLEAN
+5YJSA1E20JF270161,55300,Model S,2018,Dual Motor 75Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",18360,"Chicago, IL",CLEAN
+5YJSA1E26HF194651,55400,Model S,2017,Dual Motor 90Kwh,Model X Grey,Black,"19"" Sport Wheels",43273,"Lathrop, CA",CLEAN
+5YJSA1E28HF226497,55400,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",38073,"Lathrop, CA",CLEAN
+5YJSA1E23JF291506,55400,Model S,2018,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",18932,"Raleigh, NC",CLEAN
+5YJSA1E27HF224496,55900,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",39191,"Lathrop, CA",CLEAN
+5YJSA1E24HF210541,55900,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",37102,"Littleton, CO",CLEAN
+5YJSA1E22HF224339,56000,Model S,2017,Dual Motor 100Kwh,Red Multi-Coat,Cream Premium,"19"" Sport Wheels",29243,"Carlsbad, CA",CLEAN
+5YJSA1V46FF099943,56000,Model S,2015,Dual Motor 90Kwh Ludicrous,Deep Blue Metallic,Tan,"21"" Wheels",19177,"Tempe, AZ",CLEAN
+5YJSA1E23HF187611,56100,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Tan,"19"" Sport Wheels",24371,"Lathrop, CA",CLEAN
+5YJSA1E46GF137740,56100,Model S,2016,Dual Motor 90Kwh Performance,Model X Grey,Black,"19"" Sport Wheels",41078,"Littleton, CO",CLEAN
+5YJSA1E20HF217163,56300,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",27636,"Rocklin, CA",CLEAN
+5YJSA1E23HF229436,56300,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",43972,"Lathrop, CA",CLEAN
+5YJSA1E29HF217419,56700,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"19"" Sport Wheels",22899,"Lathrop, CA",CLEAN
+5YJSA1E29HF206100,56800,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"19"" Sport Wheels",21870,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E26HF214431,56900,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black Cloth,"19"" Sport Wheels",25309,"Lathrop, CA",CLEAN
+5YJSA1E28HF209912,56900,Model S,2017,Dual Motor 100Kwh,Model X Grey,White,"19"" Sport Wheels",23683,"Lathrop, CA",CLEAN
+5YJSA1E24HF213830,56900,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Cream Premium,"19"" Sport Wheels",27174,"Costa Mesa, CA",CLEAN
+5YJSA1E24HF229221,57100,Model S,2017,Dual Motor 100Kwh,Red Multi-Coat,Cream Premium,"19"" Sport Wheels",40757,"Lathrop, CA",CLEAN
+5YJSA1E27HF215412,57200,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",19292,"Fremont, CA",CLEAN
+5YJSA1E23HF233633,57300,Model S,2017,Dual Motor 100Kwh,Solid Black,Cream Premium,"19"" Sport Wheels",31180,"Lathrop, CA",CLEAN
+5YJSA1E20JF285792,57300,Model S,2018,Dual Motor 75Kwh,Model X Grey,Black,"21"" Wheels",16652,"Fremont, CA",CLEAN
+5YJSA1E23HF216010,57600,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",24459,"Chicago, IL",PREVIOUS ACCIDENT(S)
+5YJSA1E29HF219347,57600,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,White,"19"" Sport Wheels",27746,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJSA1E20HF219544,57800,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",33671,"Lathrop, CA",CLEAN
+5YJSA1E28JF248151,58000,Model S,2018,Dual Motor 100Kwh,Silver Metallic,Black,"19"" Sport Wheels",22841,"Lathrop, CA",CLEAN
+5YJSA1E21HF216684,58000,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Black,"19"" Sport Wheels",24596,"Lathrop, CA",CLEAN
+5YJSA1E21HF225353,58000,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",28262,"Littleton, CO",CLEAN
+5YJSA1E23HF219568,58700,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",21081,"Lathrop, CA",CLEAN
+5YJSA1E26HF217359,58800,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Black Cloth,"19"" Sport Wheels",18898,"Nashville, TN",CLEAN
+5YJSA1E23HF232997,59000,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"19"" Sport Wheels",32694,"Lathrop, CA",CLEAN
+5YJSA1E27HF222358,59200,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",21821,"Lathrop, CA",CLEAN
+5YJSA1E28HF201003,59500,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",28039,"Lisle, IL",CLEAN
+5YJSA1E22HF209436,59700,Model S,2017,Dual Motor 100Kwh,Solid Black,White,"19"" Sport Wheels",26734,"Van Nuys, CA",CLEAN
+5YJSA1E27HF224613,59800,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",24311,"Hawthorne, CA",CLEAN
+5YJSA1E21HF199238,59900,Model S,2017,Dual Motor 90Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",17325,"Costa Mesa, CA",CLEAN
+5YJSA1E21JF260867,60200,Model S,2018,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",31971,"Lathrop, CA",CLEAN
+5YJSA1E27HF222649,60400,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",24898,"Lathrop, CA",CLEAN
+5YJSA1E43GF159405,60600,Model S,2016,Dual Motor 100Kwh Performance,Brown Metallic,Tan,"19"" Sport Wheels",41165,"Lathrop, CA",CLEAN
+5YJSA1E22HF222381,60700,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",28339,"Lisle, IL",CLEAN
+5YJSA1E22HF219609,60800,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",16785,"Lathrop, CA",CLEAN
+5YJSA1E29HF226184,60800,Model S,2017,Dual Motor 100Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",22455,"Columbus, OH",CLEAN
+5YJSA1E2XHF229238,61000,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",19679,"Superior, CO",CLEAN
+5YJSA1E24HF223774,61100,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",16184,"Burbank, CA",CLEAN
+5YJSA1E22HF229735,61500,Model S,2017,Dual Motor 100Kwh,Model X Grey,Black Cloth,"19"" Sport Wheels",20004,"Lathrop, CA",CLEAN
+5YJSA1E29HF215380,61600,Model S,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",9019,"Nashville, TN",CLEAN
+5YJSA1E25HF227364,61700,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Black Cloth,"19"" Sport Wheels",12106,,CLEAN
+5YJSA1E43GF172140,62100,Model S,2016,Dual Motor 100Kwh Performance,Silver Metallic,Black,"21"" Wheels",47287,,CLEAN
+5YJSA1E2XHF227876,62300,Model S,2017,Dual Motor 100Kwh,Silver Metallic,Cream Premium,"19"" Sport Wheels",19787,"Lathrop, CA",CLEAN
+5YJSA1E20HF214540,62400,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",11532,"Los Angeles, CA",CLEAN
+5YJSA1E29HF217534,62400,Model S,2017,Dual Motor 100Kwh,Solid Black,Black,"19"" Sport Wheels",18056,"Fremont, CA",CLEAN
+5YJSA1E25HF229311,62600,Model S,2017,Dual Motor 100Kwh,Red Multi-Coat,Black,"19"" Sport Wheels",22920,"Lathrop, CA",CLEAN
+5YJSA1E22HF228827,63200,Model S,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",11135,"Scottsdale, AZ",CLEAN
+5YJSA1E22JF257265,64000,Model S,2018,Dual Motor 100Kwh,Model X Grey,Cream Premium,"19"" Sport Wheels",19676,"Burbank, CA",CLEAN
+5YJSA1E48HF178663,64200,Model S,2017,Dual Motor 100Kwh Performance,Model X Grey,White,"21"" Wheels",45411,"Littleton, CO",CLEAN
+5YJSA1E47GF171735,65000,Model S,2016,Dual Motor 100Kwh Performance,Solid Black,Tan,"21"" Wheels",31988,,CLEAN
+5YJSA1E26JF262761,67600,Model S,2018,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",8448,"Fremont, CA",CLEAN
+5YJSA1E40HF179628,68000,Model S,2017,Dual Motor 100Kwh Performance,Solid Black,Black Cloth,"19"" Sport Wheels",19825,"Carlsbad, CA",CLEAN
+5YJSA1E29JF291557,68400,Model S,2018,Dual Motor 100Kwh,Model X Grey,Black,"19"" Sport Wheels",16442,"Elk Grove Village, IL",CLEAN
+5YJSA1E46HF193551,68600,Model S,2017,Dual Motor 100Kwh Performance,Model X Grey,Tan,"21"" Wheels",4428,"Elk Grove Village, IL",PREVIOUS ACCIDENT(S)
+5YJSA1E22JF276057,68900,Model S,2018,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",14430,"West Palm Beach, FL",CLEAN
+5YJSA1E45HF200778,69000,Model S,2017,Dual Motor 100Kwh Performance,Model X Grey,Tan,"21"" Wheels",35071,"Littleton, CO",CLEAN
+5YJSA1E26KF306517,71400,Model S,2019,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",465,"Lathrop, CA",CLEAN
+5YJSA1E4XHF228821,74800,Model S,2017,Dual Motor 100Kwh Performance,Deep Blue Metallic,Cream Premium,"19"" Sport Wheels",23776,"Van Nuys, CA",CLEAN
+5YJSA1E46HF219257,77100,Model S,2017,Dual Motor 100Kwh Performance,Solid Black,Black,"21"" Wheels",14113,"Scottsdale, AZ",CLEAN
+5YJSA1E46JF263717,77700,Model S,2018,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"19"" Sport Wheels",22597,"Portland, OR",CLEAN
+5YJSA1E44JF272156,78000,Model S,2018,Dual Motor 100Kwh Performance,Solid Black,Black,"21"" Wheels",26991,"Lisle, IL",CLEAN
+5YJSA1E42HF233124,78500,Model S,2017,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"21"" Wheels",15075,"Lathrop, CA",CLEAN
+5YJSA1E46KF312870,83500,Model S,2019,Dual Motor 100Kwh Performance,Deep Blue Metallic,White,"19"" Sport Wheels",5076,"Lathrop, CA",CLEAN
+5YJSA1E47LF395937,87500,Model S,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Cream Premium,"19"" Sport Wheels",3593,"Lathrop, CA",CLEAN
+5YJSA1E40LF397514,89000,Model S,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"21"" Wheels",713,"Lathrop, CA",CLEAN
+5YJSA1E43LF403015,89300,Model S,2020,Dual Motor 100Kwh Performance,Solid Black,Black,"19"" Sport Wheels",1304,"Costa Mesa, CA",CLEAN
+5YJSA1E43LF366659,91300,Model S,2020,Dual Motor 100Kwh Performance,Red Multi-Coat,Black,"21"" Wheels",1840,"Manhasset, NY",CLEAN
+5YJSA1E41LF392094,94600,Model S,2020,Dual Motor 100Kwh Performance,Solid Black,Cream Premium,"21"" Wheels",1131,"Costa Mesa, CA",CLEAN
+5YJSA1E47LF401154,96000,Model S,2020,Dual Motor 100Kwh Performance,Solid Black,Black,"19"" Sport Wheels",6087,,CLEAN
+5YJSA1E46LF415952,99400,Model S,2020,Dual Motor 100Kwh Performance,Red Multi-Coat,Black,"21"" Wheels",2158,"Marina Del Rey, CA",CLEAN
+5YJSA1E43LF413334,101000,Model S,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"21"" Wheels",977,"Palm Springs, CA",CLEAN
+5YJ3E1EA9JF108903,36900,Model 3,2018,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",44513,"Littleton, CO",CLEAN
+5YJ3E1EA5JF021225,38100,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",36419,"Maplewood, MN",CLEAN
+5YJ3E1EA7KF297312,38300,Model 3,2019,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",12326,"Littleton, CO",CLEAN
+5YJ3E1EAXKF410590,38700,Model 3,2019,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",17455,"Elk Grove Village, IL",CLEAN
+5YJ3E1EA4LF598055,38700,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",7948,"Scottsdale, AZ",CLEAN
+5YJ3E1EA8JF035622,38800,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",29198,"Renton, WA",CLEAN
+5YJ3E1EA3JF046687,38800,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",27757,"Portland, OR",CLEAN
+5YJ3E1EAXJF032477,39500,Model 3,2018,Long Range RWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",29846,"Portland, OR",CLEAN
+5YJ3E1EA8JF041873,39700,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",20665,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJ3E1EA0JF052799,39800,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",31263,"Portland, OR",CLEAN
+5YJ3E1EA0JF005725,40100,Model 3,2018,Long Range RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",28594,"Rockville, MD",CLEAN
+5YJ3E1EA3JF023894,40500,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",21453,"Littleton, CO",CLEAN
+5YJ3E1EA5JF015635,40500,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"19"" Sport Wheels",27634,"Syosset, NY",CLEAN
+5YJ3E1EA1JF077954,41100,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",15736,"Dedham, MA",CLEAN
+5YJ3E1EA7LF703655,41400,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",6859,"Syosset, NY",CLEAN
+5YJ3E1EA4JF021961,41700,Model 3,2018,Long Range RWD,Silver Metallic,Premium Black,"18"" Aero Wheels",19277,"Bellevue, WA",CLEAN
+5YJ3E1EA4JF051980,41900,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",11317,"Rocklin, CA",CLEAN
+5YJ3E1EA5JF059201,42300,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",8741,"Renton, WA",CLEAN
+5YJ3E1EB5JF144791,42600,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",20707,"Littleton, CO",CLEAN
+5YJ3E1EA2KF326540,42700,Model 3,2019,Long Range RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",19437,"Scottsdale, AZ",CLEAN
+5YJ3E1EA6KF485867,40300,Model 3,2019,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",200,"Lathrop, CA",CLEAN
+5YJ3E1EA1LF704574,40400,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",3929,"Lathrop, CA",CLEAN
+5YJ3E1EA3LF804224,40600,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",167,"Lathrop, CA",CLEAN
+5YJ3E1EA5LF799589,40800,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",309,"Lathrop, CA",CLEAN
+5YJ3E1EA0LF745312,41000,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",2023,"Hawthorne, CA",CLEAN
+5YJ3E1EA8HF001593,41100,Model 3,2017,Long Range RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",17959,"Burbank, CA",CLEAN
+5YJ3E1EA2LF657359,41200,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",4516,"Van Nuys, CA",CLEAN
+5YJ3E1EA1LF805601,41200,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",182,"Lathrop, CA",CLEAN
+5YJ3E1EA4LF807424,41300,Model 3,2020,Standard Range Plus RWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",317,"Lathrop, CA",CLEAN
+5YJ3E1EA8LF739953,41300,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",3479,"Burbank, CA",CLEAN
+5YJ3E1EA1LF804500,41300,Model 3,2020,Standard Range Plus RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",644,"Palm Springs, CA",CLEAN
+5YJ3E1EA4LF805883,41400,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",193,"Lathrop, CA",CLEAN
+5YJ3E1EA5LF808405,41500,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",426,"Lathrop, CA",CLEAN
+5YJ3E1EA3KF325011,41600,Model 3,2019,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",42767,"Lathrop, CA",CLEAN
+5YJ3E1EA9JF053448,41900,Model 3,2018,Long Range RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",6603,"Santa Barbara, CA",CLEAN
+5YJ3E1EA8JF057524,41900,Model 3,2018,Long Range RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",21205,"Costa Mesa, CA",CLEAN
+5YJ3E1EA3LF804577,42000,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",578,"Lathrop, CA",CLEAN
+5YJ3E1EA7LF808387,42000,Model 3,2020,Standard Range Plus RWD,Deep Blue Metallic,Premium Black and White,"18"" Aero Wheels",395,"Costa Mesa, CA",CLEAN
+5YJ3E1EA9LF807418,42200,Model 3,2020,Standard Range Plus RWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",56,"Lathrop, CA",CLEAN
+5YJ3E1EA6LF745069,42300,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",2384,"Burbank, CA",CLEAN
+5YJ3E1EA0JF019625,42500,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",10550,"Van Nuys, CA",CLEAN
+5YJ3E1EA2LF803307,42600,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",420,"Palm Springs, CA",CLEAN
+5YJ3E1EB5JF110608,42800,Model 3,2018,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",19207,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJ3E1EA0LF804276,42900,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",271,"Lathrop, CA",CLEAN
+5YJ3E1EA3JF026519,43000,Model 3,2018,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",11589,"Owings Mills, MD",CLEAN
+5YJ3E1EA3JF070326,43000,Model 3,2018,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",11483,"Tempe, AZ",CLEAN
+5YJ3E1EB3KF388831,43100,Model 3,2019,Long Range AWD,Solid Black,Premium Black,"19"" Sport Wheels",32631,"Lathrop, CA",CLEAN
+5YJ3E1EA1JF118275,43200,Model 3,2018,Long Range RWD,Deep Blue Metallic,Premium Black,"19"" Sport Wheels",12528,"Littleton, CO",CLEAN
+5YJ3E1EA9LF804521,43200,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",344,"Lathrop, CA",CLEAN
+5YJ3E1EA0JF032746,43300,Model 3,2018,Long Range RWD,Solid Black,Premium Black,"19"" Sport Wheels",10149,"Lynnwood, WA",CLEAN
+5YJ3E1EA2LF805932,43400,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",749,"Burbank, CA",CLEAN
+5YJ3E1EA4LF806872,43400,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"19"" Sport Wheels",223,"Lathrop, CA",CLEAN
+5YJ3E1EA8JF033742,43400,Model 3,2018,Long Range RWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",7977,"Indianapolis, IN",CLEAN
+5YJ3E1EB3JF150699,43400,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",20043,"Littleton, CO",CLEAN
+5YJ3E1EB2JF182088,43400,Model 3,2018,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",28497,"Lisle, IL",CLEAN
+5YJ3E1EA7LF807868,43500,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"19"" Sport Wheels",166,"Costa Mesa, CA",CLEAN
+5YJ3E1EB2JF119458,43500,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",32474,"Kansas City, MO",CLEAN
+5YJ3E1EA0LF746122,43600,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",1592,"Burbank, CA",CLEAN
+5YJ3E1EA4LF804474,43600,Model 3,2020,Standard Range Plus RWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",456,"Fremont, CA",CLEAN
+5YJ3E1EA7JF098954,43700,Model 3,2018,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",19317,"Lathrop, CA",CLEAN
+5YJ3E1EA9LF805913,43700,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",505,"Lathrop, CA",CLEAN
+5YJ3E1EB8JF130867,43700,Model 3,2018,Long Range AWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",15043,"Maplewood, MN",CLEAN
+5YJ3E1EB9JF120834,43800,Model 3,2018,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",21596,"Santa Ana, CA",CLEAN
+5YJ3E1EA7LF806591,44200,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",193,"Lathrop, CA",CLEAN
+5YJ3E1EB1JF096657,44300,Model 3,2018,Long Range AWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",19395,"Cherry Hill, NJ",CLEAN
+5YJ3E1EAXLF741090,44300,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",2908,"Lathrop, CA",CLEAN
+5YJ3E1EB9KF510589,44400,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",12012,"Littleton, CO",CLEAN
+5YJ3E1EAXLF804611,44400,Model 3,2020,Standard Range Plus RWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",508,"Lathrop, CA",CLEAN
+5YJ3E1EA0LF802589,44500,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",1132,"Los Angeles, CA",CLEAN
+5YJ3E1EB7JF128284,44600,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",9817,"Littleton, CO",CLEAN
+5YJ3E1EB7JF074789,44600,Model 3,2018,Long Range AWD,Solid Black,Premium Black and White,"18"" Aero Wheels",19864,"Scottsdale, AZ",CLEAN
+5YJ3E1EA5LF804161,44700,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",705,"Lathrop, CA",CLEAN
+5YJ3E1EB6JF115560,44700,Model 3,2018,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",17477,"Lisle, IL",CLEAN
+5YJ3E1EBXJF183652,44800,Model 3,2018,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",25743,"Littleton, CO",CLEAN
+5YJ3E1EA6KF325214,44800,Model 3,2019,Long Range RWD,Solid Black,Premium Black,"18"" Aero Wheels",13411,"Lathrop, CA",CLEAN
+5YJ3E1EA6LF792151,44900,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black,"18"" Aero Wheels",166,"Dedham, MA",CLEAN
+5YJ3E1EBXJF144494,44900,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",26808,"Littleton, CO",CLEAN
+5YJ3E1EA7LF808065,44900,Model 3,2020,Standard Range Plus RWD,Solid Black,Premium Black and White,"18"" Aero Wheels",95,"Marina Del Rey, CA",CLEAN
+5YJ3E1EB3KF452981,45100,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",19356,"Lathrop, CA",CLEAN
+5YJ3E1EBXJF064158,45100,Model 3,2018,Long Range AWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",16793,"Elk Grove Village, IL",CLEAN
+5YJ3E1EAXLF804382,45300,Model 3,2020,Standard Range Plus RWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",55,"Tempe, AZ",CLEAN
+5YJ3E1EB5JF094121,45400,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",21435,"Elk Grove Village, IL",CLEAN
+5YJ3E1EA3LF807446,45600,Model 3,2020,Standard Range Plus RWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",187,"Lathrop, CA",CLEAN
+5YJ3E1EBXJF117361,45800,Model 3,2018,Long Range AWD,Red Multi-Coat,Premium Black,"19"" Sport Wheels",11072,"Rockville, MD",CLEAN
+5YJ3E1EBXJF113052,46200,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",12814,"Fremont, CA",CLEAN
+5YJ3E1EB0KF453232,46400,Model 3,2019,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",16346,"Littleton, CO",CLEAN
+5YJ3E1EB9JF149069,46500,Model 3,2018,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",11082,"Bellevue, WA",CLEAN
+5YJ3E1EB2KF510160,46600,Model 3,2019,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",16966,"Lathrop, CA",CLEAN
+5YJ3E1EB6KF387284,46700,Model 3,2019,Long Range AWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",12341,"Costa Mesa, CA",CLEAN
+5YJ3E1EB4KF210474,47000,Model 3,2019,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",13939,"Owings Mills, MD",CLEAN
+5YJ3E1EB0LF617869,47100,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",11279,"Littleton, CO",CLEAN
+5YJ3E1EB5KF510928,47300,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",20151,"Lathrop, CA",CLEAN
+5YJ3E1EB2LF606954,47300,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",9628,"Lawrence Township, NJ",CLEAN
+5YJ3E1EB8KF413268,47700,Model 3,2019,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",13620,"Matthews, NC",CLEAN
+5YJ3E1EB8KF211577,47800,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",11093,"Rockville, MD",CLEAN
+5YJ3E1EB2LF667821,47900,Model 3,2020,Long Range AWD,Solid Black,Premium Black and White,"18"" Aero Wheels",6945,"Chicago, IL",PREVIOUS ACCIDENT(S)
+5YJ3E1EB6KF442283,47900,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",3212,"South Salt Lake City, UT",CLEAN
+5YJ3E1EB6KF521534,48100,Model 3,2019,Long Range AWD,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",2887,"Van Nuys, CA",CLEAN
+5YJ3E1EB1LF712294,48200,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",23406,"Lathrop, CA",CLEAN
+5YJ3E1EB1KF510361,48300,Model 3,2019,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",11303,"Littleton, CO",CLEAN
+5YJ3E1EB1KF365662,48300,Model 3,2019,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",3262,,CLEAN
+5YJ3E1EB4LF621150,48500,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",11092,"Littleton, CO",CLEAN
+5YJ3E1EB6LF663688,48600,Model 3,2020,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",15539,"Lisle, IL",CLEAN
+5YJ3E1EB0JF148425,48800,Model 3,2018,Long Range AWD Performance,Deep Blue Metallic,Premium Black,"20"" Fragile Wheels",28008,"Littleton, CO",CLEAN
+5YJ3E1EB6LF710380,48800,Model 3,2020,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",9019,"Minneapolis, MN",CLEAN
+5YJ3E1EB4LF620841,48900,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",6741,"Lathrop, CA",CLEAN
+5YJ3E1EB4LF621892,49200,Model 3,2020,Long Range AWD,Red Multi-Coat,Premium Black and White,"18"" Aero Wheels",4906,"Paramus, NJ",CLEAN
+5YJ3E1EB0LF599812,49700,Model 3,2020,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",12568,"Owings Mills, MD",CLEAN
+5YJ3E1EB9LF616235,49800,Model 3,2020,Long Range AWD,Midnight Silver Metallic,Premium Black,"18"" Aero Wheels",5892,"Springfield, NJ",CLEAN
+5YJ3E1EB7LF618615,49900,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",8596,,CLEAN
+5YJ3E1EB1LF742153,49900,Model 3,2020,Long Range AWD,Midnight Silver Metallic,Premium Black and White,"18"" Aero Wheels",1793,"Lathrop, CA",CLEAN
+5YJ3E1EBXLF601162,50100,Model 3,2020,Long Range AWD,Red Multi-Coat,Premium Black and White,"19"" Sport Wheels",8797,"Paramus, NJ",CLEAN
+5YJ3E1EB6LF637723,50200,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",8087,"Littleton, CO",CLEAN
+5YJ3E1EB6LF651640,50300,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",4551,"Fremont, CA",CLEAN
+5YJ3E1EB8LF622723,50400,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black and White,"19"" Sport Wheels",4085,,CLEAN
+5YJ3E1EB9LF735418,50500,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",2369,"Lathrop, CA",CLEAN
+5YJ3E1EB6LF744187,50500,Model 3,2020,Long Range AWD,Solid Black,Premium Black,"18"" Aero Wheels",676,"Hawthorne, CA",CLEAN
+5YJ3E1EBXLF801135,50900,Model 3,2020,Long Range AWD,Solid Black,Premium Black,"19"" Sport Wheels",37,"Lathrop, CA",CLEAN
+5YJ3E1EB3LF746771,51000,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",223,"Lathrop, CA",CLEAN
+5YJ3E1EB6LF651508,51000,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black and White,"18"" Aero Wheels",4793,"Lathrop, CA",CLEAN
+5YJ3E1EB3LF795078,51100,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",1977,"Lathrop, CA",CLEAN
+5YJ3E1EB4KF529907,51100,Model 3,2019,Long Range AWD Performance,Midnight Silver Metallic,Premium Black,"19"" Sport Wheels",9272,"Littleton, CO",CLEAN
+5YJ3E1EB6LF664923,51100,Model 3,2020,Long Range AWD,Deep Blue Metallic,Premium Black,"18"" Aero Wheels",5352,"Littleton, CO",CLEAN
+5YJ3E1EB8LF807208,51100,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"19"" Sport Wheels",96,"Lathrop, CA",CLEAN
+5YJ3E1EB6LF621845,51200,Model 3,2020,Long Range AWD,Midnight Silver Metallic,Premium Black and White,"18"" Aero Wheels",1868,"Renton, WA",CLEAN
+5YJ3E1EB8LF741789,51400,Model 3,2020,Long Range AWD,Solid Black,Premium Black,"19"" Sport Wheels",302,"Lathrop, CA",CLEAN
+5YJ3E1EB9LF735385,51500,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",230,"Dedham, MA",CLEAN
+5YJ3E1EB2KF432348,51500,Model 3,2019,Long Range AWD Performance,Solid Black,Premium Black,"18"" Aero Wheels",18645,"Rockville, MD",CLEAN
+5YJ3E1EB5LF803259,51600,Model 3,2020,Long Range AWD,Pearl White Multi-Coat,Premium Black,"18"" Aero Wheels",268,"Lathrop, CA",CLEAN
+5YJ3E1EB6LF787105,51800,Model 3,2020,Long Range AWD,Red Multi-Coat,Premium Black,"18"" Aero Wheels",1017,"Lisle, IL",CLEAN
+5YJXCAE26GF017483,48500,Model X,2016,Dual Motor 75Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",48015,"Scottsdale, AZ",CLEAN
+5YJXCDE20HF078282,50700,Model X,2017,Dual Motor 75Kwh,Red Multi-Coat,Black,"20"" Fragile Wheels",56735,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCBE24GF018167,51700,Model X,2016,Dual Motor 75Kwh,Deep Blue Metallic,Tan,"20"" Fragile Wheels",43499,"South Salt Lake City, UT",CLEAN
+5YJXCDE27HF048096,51900,Model X,2017,Dual Motor 75Kwh,Silver Metallic,Black,"20"" Fragile Wheels",44359,"South Salt Lake City, UT",PREVIOUS ACCIDENT(S)
+5YJXCBE20GF008199,52200,Model X,2016,Dual Motor 90Kwh,Solid Black,Tan,"20"" Fragile Wheels",46130,,CLEAN
+5YJXCBE21GF006896,52400,Model X,2016,Dual Motor 90Kwh,Deep Blue Metallic,Black Cloth,"22"" Wheels",46830,"Scottsdale, AZ",PREVIOUS ACCIDENT(S)
+5YJXCBE28GF016924,52600,Model X,2016,Dual Motor 75Kwh,Solid Black,Black,"20"" Fragile Wheels",31763,"Lynnwood, WA",CLEAN
+5YJXCDE26HF051359,53800,Model X,2017,Dual Motor 90Kwh,Silver Metallic,Black,"20"" Fragile Wheels",52080,,PREVIOUS ACCIDENT(S)
+5YJXCDE2XHF075096,54100,Model X,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"20"" Fragile Wheels",43985,"Lathrop, CA",CLEAN
+5YJXCBE21GF015484,54200,Model X,2016,Dual Motor 90Kwh,Model X Grey,Black,"20"" Fragile Wheels",35158,"Indianapolis, IN",PREVIOUS ACCIDENT(S)
+5YJXCDE29HF038296,54400,Model X,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",41246,,CLEAN
+5YJXCBE2XHF044757,54500,Model X,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",28068,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJXCAE22GF004312,54600,Model X,2016,Dual Motor 90Kwh,Model X Grey,Black,"20"" Fragile Wheels",41393,"Wexford, PA",CLEAN
+5YJXCBE23GF004552,54900,Model X,2016,Dual Motor 90Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",21330,"Fort Myers, FL",CLEAN
+5YJXCDE24GF030895,55000,Model X,2016,Dual Motor 75Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",30608,"Renton, WA",CLEAN
+5YJXCDE22HF070202,55200,Model X,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black Cloth,"20"" Fragile Wheels",39600,"Carlsbad, CA",CLEAN
+5YJXCAE24GF001525,55500,Model X,2016,Dual Motor 90Kwh,Model X Grey,Tan,"20"" Fragile Wheels",40237,"Lathrop, CA",CLEAN
+5YJXCDE2XHF060226,55800,Model X,2017,Dual Motor 75Kwh,Pearl White Multi-Coat,Black Cloth,"20"" Fragile Wheels",35759,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCDE25HF050171,56100,Model X,2017,Dual Motor 75Kwh,Solid Black,Black,"20"" Fragile Wheels",33051,"Rocklin, CA",CLEAN
+5YJXCDE23HF052856,56200,Model X,2017,Dual Motor 90Kwh,Solid Black,White,"20"" Fragile Wheels",53850,"Carlsbad, CA",CLEAN
+5YJXCDE22HF066909,56500,Model X,2017,Dual Motor 75Kwh,Model X Grey,Cream Premium,"20"" Fragile Wheels",36904,"Santa Barbara, CA",CLEAN
+5YJXCDE21HF044576,56900,Model X,2017,Dual Motor 75Kwh,Model X Grey,Black,"20"" Fragile Wheels",21512,"Lisle, IL",CLEAN
+5YJXCDE26GF026234,57000,Model X,2016,Dual Motor 90Kwh,Pearl White Multi-Coat,Black,"22"" Wheels",47072,"Lathrop, CA",CLEAN
+5YJXCDE29HF072545,57200,Model X,2017,Dual Motor 75Kwh,Solid Black,White,"20"" Fragile Wheels",44819,"Lathrop, CA",CLEAN
+5YJXCBE20GF002015,57200,Model X,2016,Dual Motor 90Kwh,Red Multi-Coat,Tan,"20"" Fragile Wheels",30894,"Renton, WA",CLEAN
+5YJXCDE22HF049396,57400,Model X,2017,Dual Motor 75Kwh,Solid Black,White,"20"" Fragile Wheels",25439,"Dania Beach, FL",PREVIOUS ACCIDENT(S)
+5YJXCAE29GF027943,57400,Model X,2016,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",26252,"Lathrop, CA",CLEAN
+5YJXCDE20HF060879,57700,Model X,2017,Dual Motor 75Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",32822,"Lathrop, CA",CLEAN
+5YJXCBE22HF046115,58100,Model X,2017,Dual Motor 75Kwh,Red Multi-Coat,Black,"20"" Fragile Wheels",30549,,CLEAN
+5YJXCDE21HF066741,58100,Model X,2017,Dual Motor 75Kwh,Model X Grey,Black,"20"" Fragile Wheels",21782,"Carlsbad, CA",PREVIOUS ACCIDENT(S)
+5YJXCBE23HF049475,58100,Model X,2017,Dual Motor 90Kwh,Solid Black,Black,"20"" Fragile Wheels",30701,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJXCBE26HF052211,58500,Model X,2017,Dual Motor 90Kwh,Red Multi-Coat,Black,"20"" Fragile Wheels",47615,"Lathrop, CA",CLEAN
+5YJXCDE23HF069009,58700,Model X,2017,Dual Motor 75Kwh,Deep Blue Metallic,Cream Premium,"20"" Fragile Wheels",27205,"Scottsdale, AZ",PREVIOUS ACCIDENT(S)
+5YJXCBE21HF059664,58800,Model X,2017,Dual Motor 75Kwh,Solid Black,Black,"20"" Fragile Wheels",25996,"Lathrop, CA",CLEAN
+5YJXCBE22HF055848,59000,Model X,2017,Dual Motor 75Kwh,Model X Grey,Black,"20"" Fragile Wheels",26144,"Lathrop, CA",CLEAN
+5YJXCDE2XHF044737,59100,Model X,2017,Dual Motor 75Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",25604,"Renton, WA",CLEAN
+5YJXCDE21HF061782,59500,Model X,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"20"" Fragile Wheels",16770,"Lathrop, CA",CLEAN
+5YJXCDE29HF059617,59800,Model X,2017,Dual Motor 100Kwh,Model X Grey,Tan,"20"" Fragile Wheels",53988,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCBE22HF076845,59800,Model X,2017,Dual Motor 75Kwh,Solid Black,Black Cloth,"20"" Fragile Wheels",27965,"Van Nuys, CA",CLEAN
+5YJXCDE28GF025845,60100,Model X,2016,Dual Motor 90Kwh,Solid Black,Tan,"20"" Fragile Wheels",35805,"Lathrop, CA",CLEAN
+5YJXCBE27HF077697,62000,Model X,2017,Dual Motor 75Kwh,Red Multi-Coat,Cream Premium,"20"" Fragile Wheels",22872,"Superior, CO",CLEAN
+5YJXCDE21GF025833,62600,Model X,2016,Dual Motor 90Kwh,Pearl White Multi-Coat,Tan,"20"" Fragile Wheels",14010,"Syosset, NY",CLEAN
+5YJXCDE24HF045804,62900,Model X,2017,Dual Motor 90Kwh,Model X Grey,Black,"20"" Fragile Wheels",29539,"Lathrop, CA",CLEAN
+5YJXCDE21HF046117,63800,Model X,2017,Dual Motor 90Kwh,Deep Blue Metallic,White,"20"" Fragile Wheels",27998,"Littleton, CO",CLEAN
+5YJXCDE26JF100811,64200,Model X,2018,Dual Motor 75Kwh,Solid Black,Black,"20"" Fragile Wheels",9371,"Lathrop, CA",CLEAN
+5YJXCDE22HF063816,64400,Model X,2017,Dual Motor 100Kwh,Model X Grey,Cream Premium,"22"" Wheels",31775,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCAE28HF061017,64800,Model X,2017,Dual Motor 100Kwh,Silver Metallic,Black,"20"" Fragile Wheels",43093,"Portland, OR",PREVIOUS ACCIDENT(S)
+5YJXCDE28HF059205,65300,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,White,"20"" Fragile Wheels",39229,"Rocklin, CA",CLEAN
+5YJXCAE23HF048434,65800,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"20"" Fragile Wheels",34320,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCAE26HF041218,65900,Model X,2017,Dual Motor 90Kwh,Model X Grey,Black,"20"" Fragile Wheels",10020,"Lathrop, CA",CLEAN
+5YJXCDE22HF060656,66200,Model X,2017,Dual Motor 100Kwh,Model X Grey,Black Cloth,"20"" Fragile Wheels",25301,,CLEAN
+5YJXCDE24HF078933,66300,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black Cloth,"20"" Fragile Wheels",30511,"Peabody, MA",PREVIOUS ACCIDENT(S)
+5YJXCBE2XHF044161,66600,Model X,2017,Dual Motor 100Kwh,Silver Metallic,White,"20"" Fragile Wheels",36827,"Paramus, NJ",CLEAN
+5YJXCBE2XHF065818,66700,Model X,2017,Dual Motor 100Kwh,Model X Grey,Black,"20"" Fragile Wheels",46352,"Lathrop, CA",CLEAN
+5YJXCDE26JF126938,66800,Model X,2018,Dual Motor 75Kwh,Pearl White Multi-Coat,Cream Premium,"20"" Fragile Wheels",9482,"Santa Clara, CA",CLEAN
+5YJXCDE28HF068437,66900,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,White,"20"" Fragile Wheels",37443,"Lathrop, CA",CLEAN
+5YJXCDE27HF056702,67000,Model X,2017,Dual Motor 90Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",24970,,CLEAN
+5YJXCAE25HF056762,67500,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,Black,"20"" Fragile Wheels",31238,"Lathrop, CA",CLEAN
+5YJXCDE29HF052117,67500,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"22"" Wheels",31326,"Scottsdale, AZ",PREVIOUS ACCIDENT(S)
+5YJXCBE20HF079047,67500,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,White,"20"" Fragile Wheels",44597,"Lathrop, CA",CLEAN
+5YJXCDE42HF052770,67300,Model X,2017,Dual Motor 100Kwh Performance,Red Multi-Coat,Tan,"20"" Fragile Wheels",54979,"Costa Mesa, CA",CLEAN
+5YJXCDE26JF126082,67700,Model X,2018,Dual Motor 75Kwh,Solid Black,Black Cloth,"22"" Wheels",15346,"Lathrop, CA",CLEAN
+5YJXCDE2XHF065510,67900,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"20"" Fragile Wheels",36239,"Lathrop, CA",CLEAN
+5YJXCDE20HF068366,68200,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"22"" Wheels",43771,"Scottsdale, AZ",CLEAN
+5YJXCDE20HF052247,68400,Model X,2017,Dual Motor 100Kwh,Model X Grey,White,"20"" Fragile Wheels",25068,,CLEAN
+5YJXCDE20HF065323,68600,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"20"" Fragile Wheels",29586,"Lathrop, CA",CLEAN
+5YJXCAE26HF068936,68900,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"20"" Fragile Wheels",22680,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJXCBE29HF065082,69000,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"20"" Fragile Wheels",25797,"Portland, OR",PREVIOUS ACCIDENT(S)
+5YJXCBE2XHF066547,69200,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",32910,"Lathrop, CA",CLEAN
+5YJXCBE26HF077187,69300,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,Cream Premium,"20"" Fragile Wheels",41322,"Santa Barbara, CA",CLEAN
+5YJXCBE20HF066248,69400,Model X,2017,Dual Motor 100Kwh,Solid Black,Black,"20"" Fragile Wheels",34585,"Lathrop, CA",CLEAN
+5YJXCBE2XHF068461,69700,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"22"" Wheels",33756,"Marina Del Rey, CA",CLEAN
+5YJXCAE26HF062666,70000,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"22"" Wheels",26891,"Lathrop, CA",CLEAN
+5YJXCDE45HF048843,70100,Model X,2017,Dual Motor 100Kwh Performance,Deep Blue Metallic,White,"22"" Wheels",41298,,PREVIOUS ACCIDENT(S)
+5YJXCBE25HF046030,70200,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",11764,"Syosset, NY",CLEAN
+5YJXCBE29HF055216,70300,Model X,2017,Dual Motor 100Kwh,Solid Black,Black,"20"" Fragile Wheels",19977,"Lisle, IL",CLEAN
+5YJXCAE23HF072779,70800,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black Cloth,"22"" Wheels",33022,"Hawthorne, CA",CLEAN
+5YJXCBE2XHF078939,70900,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",31749,"Lathrop, CA",CLEAN
+5YJXCDE2XHF052238,71000,Model X,2017,Dual Motor 100Kwh,Silver Metallic,Black,"20"" Fragile Wheels",13246,,CLEAN
+5YJXCDE21HF079117,71100,Model X,2017,Dual Motor 100Kwh,Silver Metallic,Cream Premium,"20"" Fragile Wheels",15702,"Lathrop, CA",PREVIOUS ACCIDENT(S)
+5YJXCDE24HF060223,72300,Model X,2017,Dual Motor 100Kwh,Deep Blue Metallic,Tan,"20"" Fragile Wheels",15113,"Dania Beach, FL",CLEAN
+5YJXCDE20HF066701,72900,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,Cream Premium,"20"" Fragile Wheels",15613,"Warwick, RI",CLEAN
+5YJXCDE26HF075953,75400,Model X,2017,Dual Motor 100Kwh,Pearl White Multi-Coat,White,"22"" Wheels",16897,"Burbank, CA",CLEAN
+5YJXCDE27JF130075,75800,Model X,2018,Dual Motor 75Kwh,Model X Grey,Cream Premium,"20"" Fragile Wheels",21286,"Fremont, CA",CLEAN
+5YJXCBE46HF052792,76000,Model X,2017,Dual Motor 100Kwh Performance,Solid Black,Tan,"20"" Fragile Wheels",42049,,CLEAN
+5YJXCBE49HF051894,76000,Model X,2017,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"22"" Wheels",37084,,CLEAN
+5YJXCDE47HF052859,77800,Model X,2017,Dual Motor 100Kwh Performance,Model X Grey,White,"22"" Wheels",17102,"Littleton, CO",PREVIOUS ACCIDENT(S)
+5YJXCDE2XJF129227,78200,Model X,2018,Dual Motor 100Kwh,Model X Grey,White,"20"" Fragile Wheels",11805,"Glen Allen, VA",CLEAN
+5YJXCDE47HF062727,78400,Model X,2017,Dual Motor 100Kwh Performance,Deep Blue Metallic,Cream Premium,"20"" Fragile Wheels",23346,"Costa Mesa, CA",CLEAN
+5YJXCDE41HF051822,78700,Model X,2017,Dual Motor 100Kwh Performance,Solid Black,White,"22"" Wheels",23804,"Littleton, CO",CLEAN
+5YJXCBE45HF052797,79500,Model X,2017,Dual Motor 100Kwh Performance,Solid Black,Black,"20"" Fragile Wheels",29557,"Burbank, CA",CLEAN
+5YJXCDE21LF304841,91200,Model X,2020,Long Range Plus AWD,Deep Blue Metallic,White,"20"" Fragile Wheels",669,"San Jose, CA",CLEAN
+5YJXCBE28LF305215,96000,Model X,2020,Long Range Plus AWD,Solid Black,Black,"20"" Fragile Wheels",718,"Van Nuys, CA",CLEAN
+5YJXCAE23LF305701,96500,Model X,2020,Long Range Plus AWD,Pearl White Multi-Coat,Black,"22"" Wheels",2488,"Lathrop, CA",CLEAN
+5YJXCBE48LF228802,98100,Model X,2020,Dual Motor 100Kwh Performance,Deep Blue Metallic,Cream Premium,"20"" Fragile Wheels",15740,"Santa Barbara, CA",PREVIOUS ACCIDENT(S)
+5YJXCBE41KF183068,99400,Model X,2019,Dual Motor 100Kwh Performance,Model X Grey,Black,"20"" Fragile Wheels",5986,"Van Nuys, CA",CLEAN
+5YJXCBE48LF273822,102100,Model X,2020,Dual Motor 100Kwh Performance,Model X Grey,White,"20"" Fragile Wheels",8435,"Portland, OR",CLEAN
+5YJXCDE49LF284713,103100,Model X,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,Black,"20"" Fragile Wheels",2609,"Lathrop, CA",CLEAN
+5YJXCDE41LF273446,103900,Model X,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,White,"20"" Fragile Wheels",1908,"Lathrop, CA",CLEAN
+5YJXCAE46LF240229,104600,Model X,2020,Dual Motor 100Kwh Performance,Solid Black,Black,"22"" Wheels",7773,"Burbank, CA",CLEAN
+5YJXCDE44LF298017,105200,Model X,2020,Dual Motor 100Kwh Performance,Pearl White Multi-Coat,White,"22"" Wheels",525,"Lathrop, CA",CLEAN
+5YJXCDE45LF301040,108500,Model X,2020,Dual Motor 100Kwh Performance,Model X Grey,Cream Premium,"22"" Wheels",833,"Carlsbad, CA",CLEAN
+5YJXCDE43LF284691,113900,Model X,2020,Dual Motor 100Kwh Performance,Red Multi-Coat,Cream Premium,"22"" Wheels",1738,"Fremont, CA",CLEAN

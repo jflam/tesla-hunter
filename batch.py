@@ -8,5 +8,5 @@ df = t.get_daily_data()
 
 # Write a pickle file and a csv
 
-df.to_pickle(f"{date.today()}.pkl")
-df.to_csv(f"{date.today()}.csv")
+df.to_pickle(f"data/{date.today()}.pkl")
+df.to_csv(f"data/{date.today()}.csv")
