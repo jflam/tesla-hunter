@@ -49,6 +49,7 @@ class Drivetrain(enum.Enum):
     LRAWDP = "Long Range AWD Performance"
     LRRWD = "Long Range RWD"
     MRRWD = "Medium Range RWD"
+    SRAWD = "Standard Range AWD"
     SRPRWD = "Standard Range Plus RWD"
     # MS/MX
     _60 = "60Kwh"
